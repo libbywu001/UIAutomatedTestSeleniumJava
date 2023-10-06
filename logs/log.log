@@ -1,0 +1,23 @@
+2023-10-05 21:33:19  [ main:0 ] - [ INFO ]  ===========begin=========
+2023-10-05 22:12:03  [ main:0 ] - [ INFO ]  current time-20231005_221203
+2023-10-05 22:12:03  [ main:49 ] - [ INFO ]  retrycount=0
+2023-10-05 22:12:03  [ main:50 ] - [ INFO ]  sourceCodeDir=src
+2023-10-05 22:12:03  [ main:51 ] - [ INFO ]  sourceCodeEncoding=UTF-8
+2023-10-05 22:12:03  [ main:95 ] - [ INFO ]  fortest Start
+2023-10-05 22:12:03  [ main:100 ] - [ INFO ]  fortest Start
+2023-10-05 22:12:03  [ main:105 ] - [ INFO ]  ===========begin=========
+2023-10-05 22:12:36  [ main:32801 ] - [ INFO ]  fortest Success
+2023-10-05 22:12:36  [ main:32806 ] - [ INFO ]  fortest Success
+2023-10-05 22:12:41  [ main:37927 ] - [ INFO ]  PassedTests = fortest
+2023-10-05 22:12:41  [ main:37931 ] - [ INFO ]  PassedTests = fortest
+2023-10-05 22:16:40  [ main:0 ] - [ INFO ]  current time-20231005_221640
+2023-10-05 22:16:40  [ main:52 ] - [ INFO ]  retrycount=1
+2023-10-05 22:16:40  [ main:52 ] - [ INFO ]  sourceCodeDir=src
+2023-10-05 22:16:40  [ main:53 ] - [ INFO ]  sourceCodeEncoding=UTF-8
+2023-10-05 22:16:40  [ main:95 ] - [ INFO ]  fortest Start
+2023-10-05 22:16:40  [ main:104 ] - [ INFO ]  fortest Start
+2023-10-05 22:16:40  [ main:113 ] - [ INFO ]  ===========begin=========
+2023-10-05 22:17:10  [ main:29885 ] - [ INFO ]  fortest Success
+2023-10-05 22:17:10  [ main:29891 ] - [ INFO ]  fortest Success
+2023-10-05 22:17:15  [ main:35014 ] - [ INFO ]  PassedTests = fortest
+2023-10-05 22:17:15  [ main:35019 ] - [ INFO ]  PassedTests = fortest

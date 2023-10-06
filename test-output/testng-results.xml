@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-06T05:16:40Z" name="Suite" finished-at="2023-10-06T05:17:10Z" duration-ms="29894">
+    <groups>
+    </groups>
+    <test started-at="2023-10-06T05:16:40Z" name="Test" finished-at="2023-10-06T05:17:10Z" duration-ms="29894">
+      <class name="com.ca.fortest.TryTest">
+        <test-method signature="fortest()[pri:0, instance:com.ca.fortest.TryTest@61001b64]" started-at="2023-10-05T22:16:40Z" name="fortest" finished-at="2023-10-05T22:17:10Z" duration-ms="29790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fortest -->
+        <test-method is-config="true" signature="closeBrowers()[pri:0, instance:com.ca.fortest.TryTest@61001b64]" started-at="2023-10-05T22:17:10Z" name="closeBrowers" finished-at="2023-10-05T22:17:10Z" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowers -->
+      </class> <!-- com.ca.fortest.TryTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

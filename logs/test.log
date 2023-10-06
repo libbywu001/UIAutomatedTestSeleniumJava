@@ -1,0 +1,23 @@
+2023-10-05 21:33:19,194 INFO main [class com.ca.fortest.TryTest]info(line:45)===========begin=========
+2023-10-05 22:12:03,685 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)current time-20231005_221203
+2023-10-05 22:12:03,734 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)retrycount=0
+2023-10-05 22:12:03,735 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)sourceCodeDir=src
+2023-10-05 22:12:03,736 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)sourceCodeEncoding=UTF-8
+2023-10-05 22:12:03,780 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)fortest Start
+2023-10-05 22:12:03,785 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)fortest Start
+2023-10-05 22:12:03,790 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)===========begin=========
+2023-10-05 22:12:36,486 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)fortest Success
+2023-10-05 22:12:36,491 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)fortest Success
+2023-10-05 22:12:41,612 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)PassedTests = fortest
+2023-10-05 22:12:41,616 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)PassedTests = fortest
+2023-10-05 22:16:40,707 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)current time-20231005_221640
+2023-10-05 22:16:40,759 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)retrycount=1
+2023-10-05 22:16:40,759 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)sourceCodeDir=src
+2023-10-05 22:16:40,760 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)sourceCodeEncoding=UTF-8
+2023-10-05 22:16:40,802 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)fortest Start
+2023-10-05 22:16:40,811 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)fortest Start
+2023-10-05 22:16:40,820 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)===========begin=========
+2023-10-05 22:17:10,592 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)fortest Success
+2023-10-05 22:17:10,598 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)fortest Success
+2023-10-05 22:17:15,721 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)PassedTests = fortest
+2023-10-05 22:17:15,726 INFO main [class com.ca.testngtools.TestResultListener]info(line:45)PassedTests = fortest
