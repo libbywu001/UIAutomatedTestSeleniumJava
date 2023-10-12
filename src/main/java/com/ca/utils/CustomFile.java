@@ -46,7 +46,7 @@ public class CustomFile {
 				if (file1 != null && file1.isFile()) {
 					file1.delete();
 					file1.getAbsolutePath();
-				} else if (file1 != null && file1.isDirectory()) { // 是文件夹
+				} else if (file1 != null && file1.isDirectory()) { // 
 					deleteDirectory(file1.getAbsolutePath());
 				}
 			}

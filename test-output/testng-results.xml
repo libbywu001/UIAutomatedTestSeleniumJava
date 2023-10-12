@@ -2,20 +2,76 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-06T05:16:40Z" name="Suite" finished-at="2023-10-06T05:17:10Z" duration-ms="29894">
+  <suite started-at="2023-10-12T17:19:52Z" name="Default suite" finished-at="2023-10-12T17:21:16Z" duration-ms="84108">
     <groups>
     </groups>
-    <test started-at="2023-10-06T05:16:40Z" name="Test" finished-at="2023-10-06T05:17:10Z" duration-ms="29894">
-      <class name="com.ca.fortest.TryTest">
-        <test-method signature="fortest()[pri:0, instance:com.ca.fortest.TryTest@61001b64]" started-at="2023-10-05T22:16:40Z" name="fortest" finished-at="2023-10-05T22:17:10Z" duration-ms="29790" status="PASS">
+    <test started-at="2023-10-12T17:19:52Z" name="Default test" finished-at="2023-10-12T17:21:16Z" duration-ms="84108">
+      <class name="com.ca.testcase.TestCreatNewProj">
+        <test-method is-config="true" signature="openBrowers()[pri:0, instance:com.ca.testcase.TestCreatNewProj@44d52de2]" started-at="2023-10-12T10:19:52Z" name="openBrowers" finished-at="2023-10-12T10:20:24Z" duration-ms="31707" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- fortest -->
-        <test-method is-config="true" signature="closeBrowers()[pri:0, instance:com.ca.fortest.TryTest@61001b64]" started-at="2023-10-05T22:17:10Z" name="closeBrowers" finished-at="2023-10-05T22:17:10Z" duration-ms="87" status="PASS">
+        </test-method> <!-- openBrowers -->
+        <test-method signature="testCreateNewPro(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.ca.testcase.TestCreatNewProj@44d52de2]" started-at="2023-10-12T10:20:24Z" name="testCreateNewPro" data-provider="CreateNewProject_success" finished-at="2023-10-12T10:21:16Z" duration-ms="52248" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/libby/eclipse-workspace/seleniumJava/data/projectpic.jpg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[/Users/libby/eclipse-workspace/seleniumJava/data/21-411 4403 20th St - Bldg 4.dwg]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1697131224175]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[for test]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1138]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Meter]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Our team is currently verifying your blueprint!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateNewPro -->
+        <test-method is-config="true" signature="closeBrowers()[pri:0, instance:com.ca.testcase.TestCreatNewProj@44d52de2]" started-at="2023-10-12T10:21:16Z" name="closeBrowers" finished-at="2023-10-12T10:21:16Z" duration-ms="131" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowers -->
-      </class> <!-- com.ca.fortest.TryTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      </class> <!-- com.ca.testcase.TestCreatNewProj -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

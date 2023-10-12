@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <listeners>
-    <listener class-name="com.ca.testngtools.RetryListener"/>
-    <listener class-name="com.ca.testngtools.TestResultListener"/>
-    <listener class-name="com.ca.testngtools.ExtentTestNGIReporterListener"/>
-  </listeners>
-  <test name="Test">
+<suite parallel="none" name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test" verbose="2">
     <classes>
-      <class name="com.ca.fortest.TryTest"/>
+      <class name="com.ca.testcase.TestCreatNewProj"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test -->
+</suite> <!-- Failed suite [Default suite] -->
